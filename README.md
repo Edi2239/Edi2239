@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edi2239
+- 👋 Hi, I’m @Edi
 - 👀 I’m interested in tech, games and mechanics.
 - 🌱 I’m currently learning computing
 - 💞️ I’m looking to collaborate on ...
